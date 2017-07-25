@@ -1,0 +1,12 @@
+IPO diagram:
+
+INPUT                                                                    PROCESSING                                                                          OUTPUT
+
+customer's number and name              receive customer's number and name
+sales amount                                                   receive sales amount
+tax code								 receive tax code
+										 caculate sales tax
+									          Add salex tax to sales amount
+																							Display customer's number and name, sales amount, sales tax, total amount
+
+
